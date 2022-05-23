@@ -13,7 +13,7 @@
 - 심예진 (성균관대학교 통계학과)<br />
 - 조장희 (성균관대학교 문헌정보학과)<br />
 <br />
-``` 사용 방법론 ``` <br />
+``` 팀원 ``` <br />
 - Factor Analysis
 - K-Means Clustering
 - AHP(Analytic Hierarchy Process) 기법
