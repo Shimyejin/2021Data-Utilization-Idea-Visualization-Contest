@@ -5,10 +5,9 @@
 <br />
 ``` 주제 ``` 탄소저감을 위한 도시형 옥상 태양광 입지선정<br />
 <br />
+![Alt text](C:\Users\User\Desktop\공모전첫화면 1.png)
 ``` 팀원 ``` <br />
-    심예진 (성균관대학교 통계학과)<br />
-    조장희 (성균관대학교 문헌정보학과)<br />
-<br />
-``` 발표자료 ``` [PDF](https://drive.google.com/file/d/1hamIM5FFxhxxLn36Bnke6JHoAo9nyr5c/view?usp=sharing)<br />
+심예진 (성균관대학교 통계학과)<br />
+조장희 (성균관대학교 문헌정보학과)<br />
 <br />
 ```Code```
