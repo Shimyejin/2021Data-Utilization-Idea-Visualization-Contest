@@ -9,4 +9,4 @@
 심예진 (성균관대학교 통계학과)<br />
 조장희 (성균관대학교 문헌정보학과)<br />
 <br />
-``` 발표자료 ``` * PDF: <https://drive.google.com/file/d/1hamIM5FFxhxxLn36Bnke6JHoAo9nyr5c/view?usp=sharing>
+``` 발표자료 ``` [발표자료](https://drive.google.com/file/d/1hamIM5FFxhxxLn36Bnke6JHoAo9nyr5c/view?usp=sharing)
