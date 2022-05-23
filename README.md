@@ -16,4 +16,6 @@
 <br />
 
 ```사용 방법론```<br />
-    ㄹㄹ
+- Factor Analysis
+- K-Means Clustering
+- AHP(Analytic Hierarchy Process) 기법
