@@ -6,7 +6,7 @@
 
 ``` 주제 ``` 탄소저감을 위한 도시형 옥상 태양광 입지선정<br />
 <br />
-``` 발표자료 ```[PDF](https://drive.google.com/file/d/1hamIM5FFxhxxLn36Bnke6JHoAo9nyr5c/view?usp=sharing)<br />
+``` 발표자료 ``` [PDF](https://drive.google.com/file/d/1hamIM5FFxhxxLn36Bnke6JHoAo9nyr5c/view?usp=sharing)<br />
 <br />
 ``` 수상 ``` 대상(1위) <br />
 <br />
