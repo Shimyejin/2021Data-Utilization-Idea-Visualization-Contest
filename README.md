@@ -18,3 +18,8 @@
 - Factor Analysis
 - K-Means Clustering
 - AHP(Analytic Hierarchy Process) 기법
+
+```분석도구 ```
+- Python
+- R
+- QGIS
